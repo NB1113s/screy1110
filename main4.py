@@ -105,8 +105,8 @@ def handle_message(event):
         )  
     elif word=="人気記事":
         les="les"
-        template = template_env.get_template('j1.json')
-        # template = template_env.get_template('temp.json')
+        # template = template_env.get_template('j1.json')
+        template = template_env.get_template('temp.json')
         # template = "temp.json"
         data = template.render(dict(items=les))
 
