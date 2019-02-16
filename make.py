@@ -9,6 +9,8 @@ import codecs
 
 result = tes.rank("人気記事")
 
+print("frag1")
+
 code = {
   "type": "carousel",
   "contents": [
@@ -801,7 +803,7 @@ code = {
   ]
 }
 
-
+print("frag2")
 # f = open("temp.json",'w')
 # f = open("templates/temp.json",'w')
 f = codecs.open('templates/temp.json', 'w','utf-8')
