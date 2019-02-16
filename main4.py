@@ -38,8 +38,8 @@ template_env = Environment(
 )
 
 #json make
-ranklis=tes.rank("人気記事")
-subprocess.check_call(['python','make.py'])
+# ranklis=tes.rank("人気記事")
+# subprocess.check_call(['python','make.py'])
 
 @app.route("/callback", methods=['POST'])
 def callback():

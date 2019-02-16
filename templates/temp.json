@@ -18,13 +18,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/30/china-deny-gene-edited-babies/00.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/15/super-mario-bros-sells-record-breaking/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181130-china-deny-gene-edited-babies/"
+                    "uri": "http://gigazine.net/news/20190215-super-mario-bros-sells-record-breaking/"
                 }
             },
             "body": {
@@ -44,7 +44,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "中国政府が「世界初の遺伝子編集ベビーの誕生」を主張する科学者チームに研究中止を命令",
+                                        "text": "1100万円以上で落札された未開封の「スーパーマリオブラザーズ」は何が激レアなのか？",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -68,7 +68,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181130-china-deny-gene-edited-babies/"
+                            "uri": "http://gigazine.net/news/20190215-super-mario-bros-sells-record-breaking/"
                         }
                     },
                     {
@@ -96,13 +96,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/29/big-cow-reason/00.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/14/sexbot-law-privacy-issues/00.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181129-big-cow-reason/"
+                    "uri": "http://gigazine.net/news/20190214-sexbot-law-privacy-issues/"
                 }
             },
             "body": {
@@ -122,7 +122,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "「巨大すぎて食肉処理場に断られた牛」はなぜこんなにも巨大になったのか？",
+                                        "text": "セックスロボットの普及が目前に、法規制の解決すべき課題とは？",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -146,7 +146,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181129-big-cow-reason/"
+                            "uri": "http://gigazine.net/news/20190214-sexbot-law-privacy-issues/"
                         }
                     },
                     {
@@ -174,13 +174,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/30/mitochondrial-dna-passed-through-fathers/00.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/15/conviction-anthem-trailer/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181130-mitochondrial-dna-passed-through-fathers/"
+                    "uri": "http://gigazine.net/news/20190215-conviction-anthem-trailer/"
                 }
             },
             "body": {
@@ -200,7 +200,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "父親由来のミトコンドリアDNAが発見され、「ミトコンドリア・イブ」が覆る可能性が示される",
+                                        "text": "「第9地区」ニール・ブロムカンプ監督の新作「Conviction」がYouTubeで公開、「こんなにすごいゲーム予告編は見たことない」といわれる圧巻の完成度",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -224,7 +224,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181130-mitochondrial-dna-passed-through-fathers/"
+                            "uri": "http://gigazine.net/news/20190215-conviction-anthem-trailer/"
                         }
                     },
                     {
@@ -252,13 +252,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/30/headline/00.png",
+                "url": "https://i.gzn.jp/img/2019/02/13/screenshot-death/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181130-headline/"
+                    "uri": "http://gigazine.net/news/20190213-screenshot-death/"
                 }
             },
             "body": {
@@ -278,7 +278,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "2018年11月30日のヘッドラインニュース",
+                                        "text": "「著作権侵害だから」という理由で「スクリーンショットを規制」するとマジで死ぬというのをかつて証明した実例がある",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -302,7 +302,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181130-headline/"
+                            "uri": "http://gigazine.net/news/20190213-screenshot-death/"
                         }
                     },
                     {
@@ -330,13 +330,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/29/burgerking-1129/00_m.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/15/headline/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181129-burgerking-1129/"
+                    "uri": "http://gigazine.net/news/20190215-headline/"
                 }
             },
             "body": {
@@ -356,7 +356,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "「いい肉爆盛り感謝祭」でパティ5枚のワッパーチーズをバーガーキングで食べてみました",
+                                        "text": "2019年2月15日のヘッドラインニュース",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -380,7 +380,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181129-burgerking-1129/"
+                            "uri": "http://gigazine.net/news/20190215-headline/"
                         }
                     },
                     {
@@ -408,13 +408,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/30/microsoft-office-new-icon/00_m.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/14/ultraprocessed-foods-linked-early-death/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181130-microsoft-office-new-icon/"
+                    "uri": "http://gigazine.net/news/20190214-ultraprocessed-foods-linked-early-death/"
                 }
             },
             "body": {
@@ -434,7 +434,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "Microsoft Officeのアイコンデザインが刷新される",
+                                        "text": "「超加工食品」を食べることが死亡リスク増加に結びつくことが4万4000人以上を調査した研究で明らかに",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -458,7 +458,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181130-microsoft-office-new-icon/"
+                            "uri": "http://gigazine.net/news/20190214-ultraprocessed-foods-linked-early-death/"
                         }
                     },
                     {
@@ -486,13 +486,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/30/selling-samsung-foldable-technology-china/00_m.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/14/headline/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181130-selling-samsung-foldable-technology-china/"
+                    "uri": "http://gigazine.net/news/20190214-headline/"
                 }
             },
             "body": {
@@ -512,7 +512,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "Samsungの折りたたみ式スマホの秘密を中国に売ったサプライヤーが告発される",
+                                        "text": "2019年2月14日のヘッドラインニュース",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -536,7 +536,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181130-selling-samsung-foldable-technology-china/"
+                            "uri": "http://gigazine.net/news/20190214-headline/"
                         }
                     },
                     {
@@ -564,13 +564,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/28/how-melt-gold-room-temperature/00_m.jpg",
+                "url": "http://gigazine.asia/a/www/delivery/avw.php?zoneid=606&cb={random}&n=a1b74511",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181128-how-melt-gold-room-temperature/"
+                    "uri": "http://gigazine.net/news/20190215-interlink-islanddomains-vu/"
                 }
             },
             "body": {
@@ -590,7 +590,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "常温で溶けるはずのない「金」を室温でも簡単に溶かす方法が発見される",
+                                        "text": "世界で4番目に幸せな国「バヌアツ共和国」には人喰いの村がある？ウワサの真偽を確かめてきた【インターリンク ドメイン島巡り 第9回「.vu」】",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -614,7 +614,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181128-how-melt-gold-room-temperature/"
+                            "uri": "http://gigazine.net/news/20190215-interlink-islanddomains-vu/"
                         }
                     },
                     {
@@ -642,13 +642,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/30/cooling-without-power/00.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/15/why-mario-legend-zelda-awakening/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181130-cooling-without-power/"
+                    "uri": "http://gigazine.net/news/20190215-why-mario-legend-zelda-awakening/"
                 }
             },
             "body": {
@@ -668,7 +668,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "暑い晴れた日に電源なしでも気温より大幅に低い温度まで冷却可能な装置をMITの研究者が開発",
+                                        "text": "Nintendo Switchでリメイクが決定した「ゼルダの伝説 夢をみる島」ではなぜかマリオのキャラクターが多数登場",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -692,7 +692,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181130-cooling-without-power/"
+                            "uri": "http://gigazine.net/news/20190215-why-mario-legend-zelda-awakening/"
                         }
                     },
                     {
@@ -720,13 +720,13 @@
             },
             "hero": {
                 "type": "image",
-                "url": "https://i.gzn.jp/img/2018/11/29/headline/00.jpg",
+                "url": "https://i.gzn.jp/img/2019/02/14/katsuya-mabo-chicken-katsu/00_m.jpg",
                 "size": "full",
                 "aspectRatio": "20:13",
                 "aspectMode": "cover",
                 "action": {
                     "type": "uri",
-                    "uri": "http://gigazine.net/news/20181129-headline/"
+                    "uri": "http://gigazine.net/news/20190214-katsuya-mabo-chicken-katsu/"
                 }
             },
             "body": {
@@ -746,7 +746,7 @@
                                 "contents": [
                                     {
                                         "type": "text",
-                                        "text": "2018年11月29日のヘッドラインニュース",
+                                        "text": "突き抜ける辛さの麻婆豆腐とチキンカツが混然一体となった「麻婆チキンカツ丼」と「麻婆チキンカツ定食」をかつやで食べてきた",
                                         "wrap": true,
                                         "color": "#666666",
                                         "weight": "bold",
@@ -770,7 +770,7 @@
                         "action": {
                             "type": "uri",
                             "label": "MORE",
-                            "uri": "http://gigazine.net/news/20181129-headline/"
+                            "uri": "http://gigazine.net/news/20190214-katsuya-mabo-chicken-katsu/"
                         }
                     },
                     {
