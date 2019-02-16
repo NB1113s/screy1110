@@ -37,6 +37,7 @@ template_env = Environment(
     autoescape=select_autoescape(['html', 'xml', 'json'])
 )
 
+#json make
 ranklis=tes.rank("人気記事")
 subprocess.check_call(['python','make.py'])
 
@@ -67,6 +68,13 @@ categ = "please choice categ\n" \
             "サイエンス\n"\
             "生き物\n"\
             "動画\n"\
+            "映画\n"\
+            "マンガ\n"\
+            "アニメ\n"\
+            "ゲーム\n"\
+            "デザイン\n"\
+            "アート\n"\
+            "食\n"\
             "メモ"
             
 
